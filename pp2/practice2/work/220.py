@@ -1,3 +1,6 @@
+import sys
+input=sys.stdin.readline
+write=sys.stdout.write
 n = int(input())
 document = {}
 
